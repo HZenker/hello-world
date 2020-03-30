@@ -5,6 +5,6 @@
 void main() 
 {
     printf("Hello world\n");
-    printf("last line EOF");
+    printf("last line EOF: \n");
 }
 
